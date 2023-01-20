@@ -22,3 +22,8 @@ A blog with the explanation of each of the steps can be found in the following l
 
 ## Instructions
 1. Open Capston Project.ipynb and run the file
+
+## References
+1. https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74 #Code used for Tunning Random Forest
+2. https://www.geeksforgeeks.org/detecting-multicollinearity-with-vif-python/ #Code used for VIF test
+
