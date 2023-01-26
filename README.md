@@ -7,7 +7,7 @@ Forecasting is crucial for organizing marketing campaigns; therefore, it is wort
 
 Well-known is the Random Forest model and its forecasting capacity; so using a mimic data set of Starbucks users, this model was implemented and tuned to help Starbucks know how much someone will spend based on demographics and offer type.
 
-A blog with the explanation of each of the steps can be found in the following link: https://medium.com/@eparedes90/analysis-steps-that-you-should-make-when-forecasting-with-linear-regression-and-random-forest-c457ea1734c1
+A blog with the explanation of each of the steps can be found in the following link: https://medium.com/@eparedes90/forecasting-amount-spent-by-starbucks-user-fa57fddd8080
 
 ## Content
 
