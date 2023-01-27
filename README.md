@@ -1,11 +1,11 @@
-# ForecastingAmountSpent
+# Forecasting Amount Spent
+
+![image](https://user-images.githubusercontent.com/73708363/215187814-b348535b-fe38-4657-973f-27b9b3fcf62b.png)
 
 ## Project Motivation
-With the use of the Random Forest Model, this project aims to predict how much will someone spend based on demographics and offer type.
+Forecasting is crucial for organizing marketing campaigns. What location or age group is needed to put more emphasis, to what type of offer the population will respond better, and how much will the earnings will be are some of the problems that Marketing needs to face.
 
-Forecasting is crucial for organizing marketing campaigns; therefore, it is worthy of elaborating a prediction model.
-
-Well-known is the Random Forest model and its forecasting capacity; so using a mimic data set of Starbucks users, this model was implemented and tuned to help Starbucks know how much someone will spend based on demographics and offer type.
+For all these tasks a prediction model is indispensable. In this respect, well-known is the Random Forest model and its forecasting capacity; so using a mimic data set of Starbucks users, this model was implemented and tuned to help Starbucks know how much someone will spend based on demographics and offer type.
 
 A blog with the explanation of each of the steps can be found in the following link: https://medium.com/@eparedes90/forecasting-amount-spent-by-starbucks-user-fa57fddd8080
 
