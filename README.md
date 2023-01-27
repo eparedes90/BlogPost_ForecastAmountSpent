@@ -14,7 +14,7 @@ A blog with the explanation of each of the steps can be found in the following l
 1. data
 - portfolio.json #Characteristics of each offer
 - profile.json #Characteristics of each user
-- transcript.json #Trasactions
+- transcript.json #Transactions
 
 2. Project.ipynb #Jupyter Notebook
 
@@ -22,9 +22,17 @@ A blog with the explanation of each of the steps can be found in the following l
 
 4. README.md
 
+5. Requirements.txt #List of libraries and versions
+
+6. .venv #virtual environment
+
+7. .vscode #Visual Studio configuration of json
+
+8. Random Forest Regressor object #fit after tunning
+
 ## Instructions
 1. Open Project.ipynb and run the file
 
 ## References
-1. https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74 #Code used for Tunning Random Forest
+1. https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74 #Code used for Tunning Random Forest Regressor
 
